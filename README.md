@@ -11,3 +11,4 @@ Implementation of popular algorithms
 
 
 ### 2. [Sort](#sort)
+#### 2.1. [Selection Sort](./sort/selection_sort.ipynb)
